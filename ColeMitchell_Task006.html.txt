@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Manufacturing Robots and Humans</title>
+</head>
+<body>
+	<h1>Robotics & Humans</h1>
+	<img src="Robots.jpeg" alt="Robotics Image">
+	
+	<h2>Introduction</h2>
+	<p>Robots and humans are increasingly collaborating in the manufacturing industry, transforming the workforce. This synergy enhances efficiency, productivity, and accuracy. As technology advances, understanding the role of robots in the workplace becomes crucial.</p>
+	
+	<h2>Robots in the workplace</h2>
+	<ul>
+		<li>Improved productivity</li>
+		<li>Enhanced accuracy</li>
+		<li>Increased safety</li>
+		<li>Reduced labor costs</li>
+	</ul>
+	
+	<h2>Safety in the workplace</h2>
+	<table border="2" cellpadding="5" cellspacing="0">
+		<tr>
+			<th>Category</th>
+			<th>Description</th>
+		</tr>
+		<tr>
+			<td>Physical Hazards</td>
+			<td>Machine guarding, safety nets</td>
+		</tr>
+		<tr>
+			<td>Environmental Hazards</td>
+			<td>Proper ventilation, waste disposal</td>
+		</tr>
+		<tr>
+			<td>Health Hazards</td>
+			<td>Noise reduction, ergonomic workspace</td>
+		</tr>
+	</table>
+	
+	<h2>Videos</h2>
+	<iframe width="560" height="315" src="(link unavailable)" title="Robotics in Manufacturing" frameborder="0" allowfullscreen></iframe>
+	
+	<h2>More Information</h2>
+	<a href="(link unavailable)">More Information</a>
+	
+	<h2>Bibliography</h2>
+	<p>
+		[1] Robotics Industry Association. (2022). Robotics in Manufacturing. Retrieved from <a href="(link unavailable)">(link unavailable)</a><br>
+		[2] National Institute of Standards and Technology. (2020). Robotics and Manufacturing. Retrieved from <a href="(link unavailable)">(link unavailable)</a>
+	</p>
+</body>
+</html>
